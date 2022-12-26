@@ -1,0 +1,20 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ECMAScript: Historia y Versiones de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrluisperez/curso-ecmascript.git"
+  },
+  "keywords": [],
+  "author": "@mrluisperez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrluisperez/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/mrluisperez/curso-ecmascript#readme"
+}
